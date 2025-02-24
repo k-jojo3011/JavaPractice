@@ -22,8 +22,8 @@ public class Demo
 {
     public static void main(String[] args )
     {
-        int data =10 ; // it is under the stack main and has a key and a value data,10
-        Calculator obj = new Calculator();// obj is a reference variable 
+        int data =30 ; // it is under the stack main and has a key and a value data,10
+        Calculator obj = new Calculator();// obj is a reference variable
         int r1 = obj.add(3,4);
         System.out.println(r1);
 
